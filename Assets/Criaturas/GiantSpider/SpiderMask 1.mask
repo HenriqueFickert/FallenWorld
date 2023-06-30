@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SpiderMask 1
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/Abdomen_1
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/Abdomen_1/Abdomen_2
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/Abdomen_1/Abdomen_2/Abdomen_3
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/Abdomen_1/Abdomen_2/Abdomen_3/hook_L
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/Abdomen_1/Abdomen_2/Abdomen_3/hook_R
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/chelicere_L_a
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/chelicere_L_a/chelicere_L_b
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/chelicere_R_a
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/chelicere_R_a/chelicere_R_b
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_0_a
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_0_a/leg_L_0_b
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_0_a/leg_L_0_b/leg_L_0_c
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_0_a/leg_L_0_b/leg_L_0_c/leg_L_0_d
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_0_a/leg_L_0_b/leg_L_0_c/leg_L_0_d/leg_L_0_e
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_1_a
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_1_a/leg_L_1_b
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_1_a/leg_L_1_b/leg_L_1_c
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_1_a/leg_L_1_b/leg_L_1_c/leg_L_1_d
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_1_a/leg_L_1_b/leg_L_1_c/leg_L_1_d/leg_L_1_e
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_2_a
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_2_a/leg_L_2_b
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_2_a/leg_L_2_b/leg_L_2_c
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_2_a/leg_L_2_b/leg_L_2_c/leg_L_2_d
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_2_a/leg_L_2_b/leg_L_2_c/leg_L_2_d/leg_L_2_e
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_3_a
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_3_a/leg_L_3_b
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_3_a/leg_L_3_b/leg_L_3_c
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_3_a/leg_L_3_b/leg_L_3_c/leg_L_3_d
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_L_3_a/leg_L_3_b/leg_L_3_c/leg_L_3_d/leg_L_3_e
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_0_a
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_0_a/leg_R_0_b
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_0_a/leg_R_0_b/leg_R_0_c
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_0_a/leg_R_0_b/leg_R_0_c/leg_R_0_d
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_0_a/leg_R_0_b/leg_R_0_c/leg_R_0_d/leg_R_0_e
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_1_a
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_1_a/leg_R_1_b
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_1_a/leg_R_1_b/leg_R_1_c
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_1_a/leg_R_1_b/leg_R_1_c/leg_R_1_d
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_1_a/leg_R_1_b/leg_R_1_c/leg_R_1_d/leg_R_1_e
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_2_a
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_2_a/leg_R_2_b
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_2_a/leg_R_2_b/leg_R_2_c
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_2_a/leg_R_2_b/leg_R_2_c/leg_R_2_d
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_2_a/leg_R_2_b/leg_R_2_c/leg_R_2_d/leg_R_2_e
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_3_a
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_3_a/leg_R_3_b
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_3_a/leg_R_3_b/leg_R_3_c
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_3_a/leg_R_3_b/leg_R_3_c/leg_R_3_d
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/leg_R_3_a/leg_R_3_b/leg_R_3_c/leg_R_3_d/leg_R_3_e
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/mandibul_L_a
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/mandibul_L_a/mandibul_L_b
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/mandibul_L_a/mandibul_L_b/mandibul_L_c
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/mandibul_L_a/mandibul_L_b/mandibul_L_c/mandibul_L_d
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/mandibul_R_a
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/mandibul_R_a/mandibul_R_b
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/mandibul_R_a/mandibul_R_b/mandibul_R_c
+    m_Weight: 1
+  - m_Path: DARKNESS_SPIDER_ROOT/Abdomen_0/cephalothorax/Dummy025/mandibul_R_a/mandibul_R_b/mandibul_R_c/mandibul_R_d
+    m_Weight: 1
